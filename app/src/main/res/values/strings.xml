@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AIMS 5th Deck</string>
+    <string name="venue_institution">Asian Institute of Maritime Studies</string>
+    <string name="venue_location_short">June V Building • 5th Deck Banquet Hall</string>
+    <string name="venue_location_full">June V Building, 5th Deck, Roxas Blvd, Pasay</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_bookings">Bookings</string>
+    <string name="nav_coordinator">Coordinator</string>
+    <string name="nav_venue">5th Deck</string>
+    <string name="action_reserve_slot">Reserve</string>
+    <string name="action_jump_today">Today</string>
+    <string name="action_confirm_booking">Confirm Reservation</string>
+    <string name="action_place_hold">Place Maintenance Hold</string>
+    <string name="action_check_in">Check In</string>
+    <string name="action_cancel_booking">Cancel</string>
+    <string name="action_close">Done</string>
+    <string name="hero_banner_cd">AIMS June V Building 5th Deck Banquet Hall interior view</string>
+    <string name="empty_day_cd">No reservations scheduled for this date</string>
+    <string name="prev_month_cd">Previous month</string>
+    <string name="next_month_cd">Next month</string>
+</resources>

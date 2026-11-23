@@ -1,0 +1,6 @@
+{
+  "name": "AIMS 5th Deck",
+  "description": "Banquet hall reservation app with a real-time calendar for the Asian Institute of Maritime Studies (AIMS), June V Building, 5th Deck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
